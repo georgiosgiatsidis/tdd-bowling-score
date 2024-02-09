@@ -1,3 +1,5 @@
+[![.NET](https://github.com/georgiosgiatsidis/tdd-bowling-score/actions/workflows/dotnet.yml/badge.svg)](https://github.com/georgiosgiatsidis/tdd-bowling-score/actions/workflows/dotnet.yml)
+
 # TDD workshop exercise - Bowling score
 
 ## Scoring Rules
