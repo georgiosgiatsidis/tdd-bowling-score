@@ -1,0 +1,26 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+
+# Ignore Visual Studio files
+*.suo
+*.user
+*.vs/
+*.csproj.user
+*.xproj.user
+*.sln.docstates
+
+# Ignore Resharper files
+_ReSharper*/
+
+# Ignore build artifacts
+*.swp
+*.bak
+*.cache
+*.log
+*.tmp
+*.DS_Store
